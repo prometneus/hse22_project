@@ -29,5 +29,5 @@
 
 ## Полученные гомологичные кластеры
 
-| -- | -- |
-| ![image](https://user-images.githubusercontent.com/86663451/173706278-45aab74b-444a-4728-9816-d9e969183924.png) | ![image](https://user-images.githubusercontent.com/86663451/173706308-a380250d-6cc9-42ec-91be-a369fdb2be03.png) |
+- | -
+![image](https://user-images.githubusercontent.com/86663451/173706278-45aab74b-444a-4728-9816-d9e969183924.png) | ![image](https://user-images.githubusercontent.com/86663451/173706308-a380250d-6cc9-42ec-91be-a369fdb2be03.png) 

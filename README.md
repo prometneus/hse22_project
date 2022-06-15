@@ -58,5 +58,6 @@
 | 3 | SNW02578.1 | pyrroline-5-carboxylate reductase | | 650.9198 |
 | 3 | SNW01406.1 | phosphocarrier protein HPr | | 766.6232 |
 | 3 | SNW01418.1 | metallo-beta-lactamase superfamily protein | | 883.5764 |
-
-
+| 2 | ASE36419.1 | tRNA epoxyqueuosine(34) reductase QueG | | 632.2504 |
+| 2 | ASE37871.1 | bifunctional metallophosphatase/5'-nucleotidase | | 1623.871 |
+| 1 | QQA48679.1 | accessory Sec system protein Asp2 | | 705.4245 |

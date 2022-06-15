@@ -42,22 +42,22 @@
 |  4 |       15 |
 |  5 |        1 |
 
-| Количество генов в кластере | Гены | Функции генов | Расположение Z-ДНК | Z-Hunt score |
-|:---------------------------:|:----:|:-------------:|:------------------:|:------------:|
-| 5 | QPT05479.1 | 50S ribosomal protein L19 | | 583.4285 |
-| 5 | WP_085238134.1 | 50S ribosomal protein L19 | | 583.4285 |
-| 5 | SNW01844.1 | 50S ribosomal protein L19 | | 583.4285 |
-| 5 | ASE35914.1 | 50S ribosomal protein L19 | | 583.4285 |
-| 5 | QQA47665.1 | 50S ribosomal protein L19 | | 583.4285 |
-| 4 | WP_037542446.1 | 30S ribosomal protein S9 | | 1469.169 |
-| 4 | WP_085237376.1 | tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG | | 4576.539 |
-| 4 | WP_085237165.1 | GbsR/MarR family transcriptional regulator | | 650.9198 |
-| 4 | WP_085237663.1 | glycerol-3-phosphate cytidylyltransferase | | 650.9198 |
-| 4 | WP_085237547.1 | ATP-dependent Clp protease ATP-binding subunit | | 783.823 или 1117.472 |
-| 3 | SNW00316.1 | excinuclease ABC subunit A | | 3249.007 |
-| 3 | SNW02578.1 | pyrroline-5-carboxylate reductase | | 650.9198 |
-| 3 | SNW01406.1 | phosphocarrier protein HPr | | 766.6232 |
-| 3 | SNW01418.1 | metallo-beta-lactamase superfamily protein | | 883.5764 |
-| 2 | ASE36419.1 | tRNA epoxyqueuosine(34) reductase QueG | | 632.2504 |
-| 2 | ASE37871.1 | bifunctional metallophosphatase/5'-nucleotidase | | 1623.871 |
-| 1 | QQA48679.1 | accessory Sec system protein Asp2 | | 705.4245 |
+| Количество генов в кластере | Гены | Функции генов | Z-Hunt score |
+|:---------------------------:|:----:|:-------------:|:------------:|
+| 5 | QPT05479.1 | 50S ribosomal protein L19  | 583.4285 |
+| 5 | WP_085238134.1 | 50S ribosomal protein L19 | 583.4285 |
+| 5 | SNW01844.1 | 50S ribosomal protein L19 | 583.4285 |
+| 5 | ASE35914.1 | 50S ribosomal protein L19 | 583.4285 |
+| 5 | QQA47665.1 | 50S ribosomal protein L19 | 583.4285 |
+| 4 | WP_037542446.1 | 30S ribosomal protein S9 | 1469.169 |
+| 4 | WP_085237376.1 | tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG | 4576.539 |
+| 4 | WP_085237165.1 | GbsR/MarR family transcriptional regulator | 650.9198 |
+| 4 | WP_085237663.1 | glycerol-3-phosphate cytidylyltransferase | 650.9198 |
+| 4 | WP_085237547.1 | ATP-dependent Clp protease ATP-binding subunit | 783.823 или 1117.472 |
+| 3 | SNW00316.1 | excinuclease ABC subunit A | 3249.007 |
+| 3 | SNW02578.1 | pyrroline-5-carboxylate reductase | 650.9198 |
+| 3 | SNW01406.1 | phosphocarrier protein HPr | 766.6232 |
+| 3 | SNW01418.1 | metallo-beta-lactamase superfamily protein | 883.5764 |
+| 2 | ASE36419.1 | tRNA epoxyqueuosine(34) reductase QueG | 632.2504 |
+| 2 | ASE37871.1 | bifunctional metallophosphatase/5'-nucleotidase | 1623.871 |
+| 1 | QQA48679.1 | accessory Sec system protein Asp2 | 705.4245 |

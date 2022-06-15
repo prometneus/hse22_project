@@ -72,3 +72,11 @@
 ![image](pics/pettenkoferi_zdna.png)
 
 ![image](pics/pseudintermedius_zdna.png)
+
+# G-квадруплексы
+
+Предсказания G-квадруплексов успехом не увенчались. Всего нашлось 2 генома -- auricularis и lutrae, в которых нашлось по одному квадруплексу с достаточно низким скором. Гистограммы прикладываю только потому что отрисовывал их в одном скрипте, в них нет никакого смысла.
+
+Гистограмма распределения G-квадруплексов у auricularis | Гистограмма распределения G-квадруплексов у lutrae
+-|-
+![image](https://user-images.githubusercontent.com/86663451/173911795-2fb28913-56ca-4a7e-9570-ddf2d578477f.png) | ![image](https://user-images.githubusercontent.com/86663451/173911920-1d3a3034-4ac6-44f5-a2a2-67aadca806dd.png)

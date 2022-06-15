@@ -80,3 +80,6 @@
 Гистограмма распределения G-квадруплексов у auricularis | Гистограмма распределения G-квадруплексов у lutrae
 -|-
 ![image](https://user-images.githubusercontent.com/86663451/173911795-2fb28913-56ca-4a7e-9570-ddf2d578477f.png) | ![image](https://user-images.githubusercontent.com/86663451/173911920-1d3a3034-4ac6-44f5-a2a2-67aadca806dd.png)
+
+Каким-то образом intersect на lutrae совершенно не сработал, что бы я ни делал. Поэтому прилагаю только картинку расположения G-квадруплекса на auricularis
+![image](pics/auricularis_quad.png)

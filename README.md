@@ -61,3 +61,14 @@
 | 2 | ASE36419.1 | tRNA epoxyqueuosine(34) reductase QueG | 632.2504 |
 | 2 | ASE37871.1 | bifunctional metallophosphatase/5'-nucleotidase | 1623.871 |
 | 1 | QQA48679.1 | accessory Sec system protein Asp2 | 705.4245 |
+
+## Визуализация
+![image](pics/auricularis_zdna.png)
+
+![image](pics/lutrae_zdna.png)
+
+![image](pics/muscae_zdna.png)
+
+![image](pics/pettenkoferi_zdna.png)
+
+![image](pics/pseudintermedius_zdna.png)

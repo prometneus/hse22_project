@@ -47,7 +47,7 @@
 |  | QPT05479.1 | 50S ribosomal protein L19 | | 583.4285 |
 |  | WP_085238134.1 | 50S ribosomal protein L19 | | 583.4285 |
 | 5 | SNW01844.1 | 50S ribosomal protein L19 | | 583.4285 |
-| ^ | ASE35914.1 | 50S ribosomal protein L19 | | 583.4285 |
-|  | QQA47665.1 | 50S ribosomal protein L19 | | 583.4285 |
+| ^^ | ASE35914.1 | 50S ribosomal protein L19 | | 583.4285 |
+| ^^ | QQA47665.1 | 50S ribosomal protein L19 | | 583.4285 |
 
 
